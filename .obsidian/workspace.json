@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "dec798f9e05fb6eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "329cdda0905d58a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "486513f6b57e3fa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "comparativas_erp.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "comparativas_erp.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "737251ba73ae602c",
+    "type": "split",
+    "children": [
+      {
+        "id": "14f8b7923930755c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4dd1b663fb02e8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d82b6f87d73d539e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "12935fb9885dd6a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5ebdaaad525be93",
+    "type": "split",
+    "children": [
+      {
+        "id": "e116ae74b41ba013",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb36059974cbaf2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "comparativas_erp.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for comparativas_erp.md"
+            }
+          },
+          {
+            "id": "58f531e6e6c56a27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "comparativas_erp.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from comparativas_erp.md"
+            }
+          },
+          {
+            "id": "33ba504ecd15c046",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d624afc6aff04de0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "comparativas_erp.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of comparativas_erp.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "486513f6b57e3fa9",
+  "lastOpenFiles": [
+    "Readme.md.md",
+    "comparativas_erp.md.md",
+    "assets"
+  ]
+}
