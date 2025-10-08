@@ -14,7 +14,7 @@ comparativas_erp
 ### 3. Documento principal
 [comparativas_erp.md](comparativas_erp.md)
 
-Índice del contenido del fichero comparativas_erp.md
+#### Índice del contenido del fichero comparativas_erp.md
 1. Análisis de los ERPs elegidos
 2. Casos en los que elegirías esos ERPs
 3. Tabla Comparativa ERPs
