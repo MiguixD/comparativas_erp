@@ -6,10 +6,10 @@
 Investigar y comparar tres soluciones ERP actuales para valorar cuál se adapta mejor a las necesidades de una empresa de servicios como un gimnasio urbano.
 
 ### 2. Estructura del repositorio.
-comparativas_erp/
-├─ Readme.md
-├─ comparativas_erp.md
-└─ asset/
+comparativas_erp/  
+├─ Readme.md  
+├─ comparativas_erp.md  
+└─ asset/  
 
 ### 3. Documento principal
 [comparativas_erp.md](comparativas_erp.md)
